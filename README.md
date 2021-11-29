@@ -33,7 +33,8 @@ print(C)
 ```
 
 ## Output:
-![github logo](sys_eq.png)
+![Github logo](sys_eq.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
